@@ -1,9 +1,7 @@
 # Linear Regression with C++
 In this blog, we are going to uncover the nitty-gritty details of linear regression and how it is implemented in a low-level language like C++. Exploring the wildreness is a way for you to escape the `abstraction hell` created by high-level languages like Python with these statements `model = LinearRegression()`. Lets jump right into the subject,
-
-
-
-
+\
+\
 ## what is linear regression???
 > definition goes like,
 > **linear regression is used to determine the best-fit line that accurately represents relationship between the independent variable and the dependent variable.**
