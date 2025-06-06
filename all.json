@@ -10,5 +10,17 @@
     "category": ["cpp", "ml"],
     "description": "uncover working of linear regression by implementing the algorithm in a low-level language like c++. Learn the algorithm, its working principle, derivatives involved in implementation and visualising result with imgui and implot.",
     "last_modified": "2025-06-06T16:57:44+00:00"
+  },
+  {
+    "slug": "templates-in-nix",
+    "title": "Templates | Nix Flake",
+    "date": {
+      "date": 7,
+      "month": 6,
+      "year": 2025
+    },
+    "category": ["nix"],
+    "description": "Templates is wonderful feature of nix-flakes, that make spining up new project easy. In this blog I am going breif about how I use them in my workflow, and teach you how to use it.",
+    "last_modified": "2025-06-07T16:57:44+00:00"
   }
 ]
