@@ -2,8 +2,13 @@
   {
     "slug": "linear-regression-with-cpp",
     "title": "Linear Regression with CPP",
-    "date": "2nd June 2022",
+    "date": {
+      "date": 6,
+      "month": 6,
+      "year": 2025
+    },
     "category": ["cpp", "ml"],
-    "description": "uncover working of linear regression by implementing the algorithm in a low-level language like c++. Learn the algorithm, its working principle, derivatives involved in implementation and visualising result with imgui and implot."
+    "description": "uncover working of linear regression by implementing the algorithm in a low-level language like c++. Learn the algorithm, its working principle, derivatives involved in implementation and visualising result with imgui and implot.",
+    "last_modified": "2025-06-06T16:57:44+00:00"
   }
 ]
