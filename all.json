@@ -20,7 +20,19 @@
       "year": 2025
     },
     "category": ["nix"],
-    "description": "Templates is wonderful feature of nix-flakes, that make spining up new project easy. In this blog I am going breif about how I use them in my workflow, and teach you how to use it.",
+    "description": "Templates is wonderful feature of nix-flakes, that make spining up new project easy. In this blog I am going brief about how I use them in my workflow, and teach you how to use it.",
     "last_modified": "2025-06-07T16:57:44+00:00"
+  },
+  {
+    "slug": "how-i-created-nvim-plugin-cowpile",
+    "title": "How I Created My Nvim Plugin | feat. Cowpile",
+    "date": {
+      "date": 7,
+      "month": 6,
+      "year": 2025
+    },
+    "category": ["neovim", "lua"],
+    "description": "I will brief about how i created a neovim plugin to ease my development experience, COWPILE - allows you to run various compile commands within your neovim window. It is a simple application that reads from a .sln.lua file and runs most used commands.",
+    "last_modified": "2025-06-07T03:39:01Z"
   }
 ]
